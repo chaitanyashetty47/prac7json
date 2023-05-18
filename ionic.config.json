@@ -1,0 +1,7 @@
+{
+  "name": "IonicPrac7",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
